@@ -1,6 +1,6 @@
 # Desenvolvimento da Página Web da SupernovaTaxi
 
-Desenvolvendo a página da supernovataxi com base na (versão 1.0.0)(https://supernovataxi.com/) desenvolvida pela UolHost (Criação de site)
+Desenvolvendo a página da supernovataxi com base na (versão 1.0.0) desenvolvida pela UolHost (Criação de site)
 
 
 ### Pré-requisitos
